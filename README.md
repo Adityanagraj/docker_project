@@ -8,5 +8,5 @@ Tools used:<br>
   <li>mysql os image<br></li>
   
 </ul>
-<br><br>
+<br>
 configured yum in docker setup 
