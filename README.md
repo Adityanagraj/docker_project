@@ -1,6 +1,7 @@
 # docker_project
 A docker project which hosts our own dbserver and wordpress<br>
 This project is completed under guidance of vimal daga sir linuxworld limited<br>
+configured yum in docker setup
 Tools used:<br>
 <ul>
   <li>Docker<br></li>
@@ -9,4 +10,4 @@ Tools used:<br>
   
 </ul>
 <br>
-configured yum in docker setup 
+➡️ url:https://www.linkedin.com/posts/activity-6662278814963499008--o1b
