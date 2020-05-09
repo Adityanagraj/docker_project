@@ -8,6 +8,7 @@ Tools used:<br>
   <li>Docker<br></li>
   <li>Wordpress server<br></li>
   <li>mysql os image<br></li>
+  <li>docker-compose<br></li>
   
 </ul>
 <br>
