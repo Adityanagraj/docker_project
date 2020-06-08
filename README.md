@@ -5,12 +5,6 @@ in this setup we use Docker images such as frontend, <B>Wordpress apache server<
 MySQL server is a SQL complaint server, in other words it is a relational model database server<br>
 This project is completed under guidance of vimal daga sir linuxworld limited<br>
 Tools used:<br>
-<ul>
-  <li>Docker<br></li>
-  <li>Wordpress server<br></li>
-  <li>mysql os image<br></li>
-  <li>docker-compose<br></li>
-  
-</ul>
+
 <br>
 ➡️ url:https://www.linkedin.com/posts/activity-6662278814963499008--o1b
